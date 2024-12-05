@@ -11,3 +11,9 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
+## Deployment Details
+
+- **Deployed Contract Address:** `0x92AC066D0775BFdc3601524b23B05BadB11aD64B`
+- **Network:** Sepolia Testnet
+- **Deployer Account:** `0xC98fcb733B3e200558194D059f3f05C629574f75`
+
